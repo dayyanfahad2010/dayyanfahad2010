@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dayyan Fahad</h1>
 
-<!--
-**dayyanfahad2010/dayyanfahad2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+MERN Stack Developer from Pakistan 🇵🇰
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **Advanced MERN Stack**
+- 💻 Building Full Stack Web Applications
+- 🔥 Looking for **Internships, Freelance & Remote Jobs**
+- ⚡ Passionate about Clean UI & Scalable Backend
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,git,github,firebase,tailwind,vscode" />
+
+</p>
+
+---
+
+## 📫 Contact
+
+- Portfolio: https://dayyanfahad.vercel.app
+- LinkedIn:
+- Email:
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dayyanfahad2010&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dayyanfahad2010&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayyanfahad2010&layout=compact&theme=tokyonight"/>
