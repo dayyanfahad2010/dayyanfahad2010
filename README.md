@@ -37,7 +37,7 @@ MERN Stack Developer from Pakistan 🇵🇰
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayyanfahad2010&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=dayyanfahad2010&theme=tokyonight" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=dayyanfahad2010&theme=tokyonight)
 </p>
 
 <p align="center">
